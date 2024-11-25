@@ -70,7 +70,7 @@ function App() {
   return (
     <>
       <div
-       style={{ backgroundColor: bgcolor }} 
+        style={{ backgroundColor: bgcolor }}
         className="w-screen h-screen flex items-center justify-center m-0"
       >
         <Container
